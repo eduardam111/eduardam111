@@ -10,5 +10,5 @@
 </p>
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardam111&theme=omni&show_icons=true&hide_border=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardam111&theme=omni&show_icons=true&hide_border=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardam111&theme=omni&show_icons=true&hide_border=true&layout=compact">
 </div>
