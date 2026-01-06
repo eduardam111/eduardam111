@@ -1,12 +1,12 @@
 ## Hi, my name's Maria Eduarda! 😺
 <p>
-  I'm a Software Developer Intern, always improving my knowledge in programming, and here, you'll see my apprenticeship.
+  I'm a IT Applications Support Intern, always improving my knowledge in programming, and here, you'll see my apprenticeship.
 </p>
 <p>
-  First Semester of Systems Information at Universidade Santa Cecília, in Santos - São Paulo.
+  Fourth Semester of Systems Information at Universidade Santa Cecília, in Santos - São Paulo.
 </p>
 <p>
-  Currently working as an IT apprentice in Infrastructure, Suport Technical 1 Level.
+  Currently working as an IT Applications Support in Systems, Suport Technical Level 2.
 </p>
 <img height="150em" src="https://i.pinimg.com/originals/47/28/4d/47284d9e1a5fb34fb81ef770a3c54ed3.gif">
 <div>
